@@ -139,4 +139,13 @@ footer p {
         width: auto;
     }
 }
+@media screen and (max-width: 540px){
+    .c-menu{
+        display: none;
+    }
+
+    .logo {
+        margin: 0 auto;
+    }
+}
 
