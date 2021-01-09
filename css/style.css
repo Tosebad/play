@@ -36,11 +36,7 @@ a {
     padding: 10px;
 }
 
-.c-menu li {
-    padding: 10px;
-}
-
-.c-menu li a{
+.c-menu li, .c-menu li a {
     padding: 10px;
 }
 
