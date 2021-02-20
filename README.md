@@ -1,3 +1,3 @@
 # Primeiro projeto
 
-- Foi usado as tecnicas com flexbox e grid layout
+- Foi usado as tecnicas com flexbox (Não foi feito menu responsivo)
